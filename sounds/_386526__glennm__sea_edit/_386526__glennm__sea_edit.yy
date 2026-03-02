@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"_386526__glennm__sea_edit",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":8.336009,
+  "exportDir":"",
+  "name":"_386526__glennm__sea_edit",
+  "parent":{
+    "name":"sprites",
+    "path":"folders/sprites.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_386526__glennm__sea_edit.wav",
+  "volume":1.0,
+}
